@@ -1,0 +1,21 @@
+{
+  "name": "xuzhileikaku/ccli",
+  "description": "php cli practise",
+  "type": "project",
+  "license": "mit",
+  "autoload": {
+    "psr-4": {
+      "Xuzhileikaku\\Ccli\\": "src/",
+      "Ccli\\": "lib/",
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "xuezhileikaku",
+      "email": "chengyingbo88@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
